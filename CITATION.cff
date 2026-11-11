@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "RiskIndex: Fast Tail-Risk Influence Maximization via Reusable Graph Indexing"
+type: software
+license: MIT
+repository-code: "https://github.com/Farshidveis64/riskindex"
+date-released: 2026-11-11
+authors:
+  - family-names: Veisi
+    given-names: Farshid
+  - family-names: Berahmand
+    given-names: Kamala
+  - family-names: Taheri
+    given-names: Sona
+  - family-names: Moradi
+    given-names: Mahnaz
+  - family-names: Jalili
+    given-names: Mahdi
+preferred-citation:
+  type: conference-paper
+  title: "RiskIndex: Fast Tail-Risk Influence Maximization via Reusable Graph Indexing"
+  authors:
+    - family-names: Veisi
+      given-names: Farshid
+    - family-names: Berahmand
+      given-names: Kamala
+    - family-names: Taheri
+      given-names: Sona
+    - family-names: Moradi
+      given-names: Mahnaz
+    - family-names: Jalili
+      given-names: Mahdi
+  collection-title: "Submitted to the 43rd IEEE International Conference on Data Engineering (ICDE 2027)"
+  year: 2027
